@@ -16,7 +16,7 @@
             throw new NotImplementedException();
         }
 
-        public object GetObjective(string v)
+        public Objective GetObjective(string v)
         {
             throw new NotImplementedException();
         }
